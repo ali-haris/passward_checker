@@ -49,6 +49,6 @@ def main(args):
         else:
             print(f'{passward} was not found. Carry on')
 
-    print('done')
+    print('All done')
 
 main(sys.argv[1:])
